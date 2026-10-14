@@ -1,3 +1,3 @@
-id;title;price
-1;Test Kitap 1;10.00
-2;Test Kitap 2;20.00
+id;artist;title;subject;year;period
+1;Leonardo da Vinci;Mona Lisa;Lisa del Giocondo;1503;Renaissance
+2;Michelangelo;The Creation of Adam;Sistine Chapel;1512;Renaissance
